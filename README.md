@@ -1,6 +1,7 @@
 # APA
 # Análise e Projeto de Algoritmos
-Algoritmos de Ordenação: - INSERTION SORT
+Algoritmos de Ordenação: 
+ - INSERTION SORT
  - SELECTION SORT
                         
 # Como Executar
