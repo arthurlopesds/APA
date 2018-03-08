@@ -5,4 +5,4 @@ Algoritmos de Ordenação:
  - SELECTION SORT
                         
 # Como Executar
-No terminal digite python nomedoarquivo.py nomedoarquivoquecontemasentradas
+No terminal digite: python nomedoarquivo.py nomedoarquivoquecontemasentradas
