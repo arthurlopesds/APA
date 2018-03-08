@@ -4,5 +4,5 @@ Algoritmos de Ordenação: - INSERTION SORT
 
                          - SELECTION SORT
                         
-# COMO EXCUTAR
+# Como Executar
 No terminal digite python nomedoarquivo.py nomedoarquivoquecontemasentradas
